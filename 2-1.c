@@ -4,3 +4,4 @@ int main(void){
     printf("홍길동\n홍 길동\n홍 길 동\n");
     return 0;
 }
+
